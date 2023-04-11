@@ -1,0 +1,21 @@
+nav{
+    margin-left:40px;
+    
+}
+
+p{
+    margin-left: 110px;
+    display: flex;
+    gap: 170px;
+
+}
+body{
+    background-color:  #F5F5F5;
+}
+.cla{
+    position:absolute;
+    top: 1%;
+    right: 9%;
+
+
+}
