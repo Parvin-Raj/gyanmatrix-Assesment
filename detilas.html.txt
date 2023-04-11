@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="details.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet">
+</head>
+<body>
+
+     <img src="img/Group 72.png" alt="" width="50%" height="100px">
+    
+
+
+     <div class="container">
+        <h1>Cho Chang</h1>
+ 
+        <p>Species  ----  Human</p>
+        <P>Gender  -----  Female</P>
+        <p>House  -----  Ravenclaw</p>
+        <p>DOB  ----  01-09-1978</p>
+        <p>Ancestry  ----  pure Blood</p>
+        <p>Eye colour ----  Black</p>
+        <p>Hair colour  ----  black
+        </p>
+        <p>Wand ---- Rull</p>
+        <p>Patronus ---- Swan</p>
+
+     </div>
+</body>
+</html>

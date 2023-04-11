@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home</title>
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+
+    <nav>
+        <img src="img/Group 72.png" alt="" width="200px" height="100px">
+        <div class="cla">
+       
+            <img src="img/studen.jpeg" alt=""  width="200px" height="100px">
+            
+            
+        <img src="img/staf.jpeg" alt=""  width="200px" height="100px">
+ </div>
+    </nav>
+    <p>
+    <img src="img/dum.jpeg" alt="" height="350px" width="250px">
+    <img src="img/hag.jpeg" alt="" height="350px" width="250px">
+    <img src="img/lupin.jpeg" alt="" height="350px" width="250px">
+    </p>
+
+<p>
+    <img src="img/1.jpeg" alt="" height="350px" width="250px">
+    <img src="img/2.jpeg" alt="" height="350px" width="250px">
+    <img src="img/3.jpeg" alt="" height="350px" width="250px">
+</p>
+
+    
+
+
+</body>
+</html>

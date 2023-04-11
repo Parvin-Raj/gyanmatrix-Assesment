@@ -1,0 +1,17 @@
+img{
+    height: 100px;
+    width:250px;
+}
+body{
+    background-color: #b6d2da;
+    font-family: 'Pirata One', cursive;
+}
+
+.container{
+    margin-left: 180px;
+    background-color:#3DB2D3 ;
+    height: 100%;
+    width: 60%;
+    padding: 90px;
+    border: 8px solid black;
+}
