@@ -1,0 +1,47 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Draco Malfoy</title> 
+    <link rel="stylesheet" href="style1.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet">
+</head> 
+<body> 
+    <header><img src="Group 72.png" width=266px height=116.51px;></header> 
+    <div class="box"> 
+        <div class="img"> 
+            <br><br><br>
+            <img src="photo_2023-03-12_10-41-19.png" alt="" height="270px" width="230px"> 
+        </div> 
+        <div> 
+            
+            <h1 class="ht">Draco Malfoy</h1> 
+            <pre class="t">               
+                Species                  Human 
+ 
+                Gender                   Male 
+ 
+                House                    Slytherin
+ 
+                DOB                         05-06-1980 
+ 
+                Ancestry                Pure Blood
+ 
+                Eye colour             Grey
+ 
+                Hair colour            Blonde
+ 
+                Wand                       Hawthorn Unicorn Tail Hair
+
+                Patronus                 null</pre> 
+        </div> 
+        <div class="pro"> 
+            <img src="8.png" alt="" height="337px" width="276px"> 
+        </div> 
+    </div> 
+</body> 
+</html>
