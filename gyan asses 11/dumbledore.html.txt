@@ -1,0 +1,47 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Ron Weasley</title> 
+    <link rel="stylesheet" href="style1.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pirata+One&display=swap" rel="stylesheet">
+</head> 
+<body> 
+    <header><img src="Group 72.png" width=266px height=116.51px;></header> 
+    <div class="box"> 
+        <div class="img"> 
+            <br><br><br>
+            <img src="photo_2023-03-12_10-41-23.png" alt="" height="270px" width="230px"> 
+        </div> 
+        <div> 
+            
+            <h1 class="ht">Dumbledore</h1> 
+            <pre class="t">               
+                Species                      Human
+ 
+                Gender                       Male 
+ 
+                House                         Gryffinger 
+ 
+                DOB                             null
+ 
+                Ancestry                    Half Blood
+ 
+                Eye colour                 Blue
+ 
+                Hair colour                Silver
+ 
+                Wand                           null
+
+                Patronus                     null</pre> 
+        </div> 
+        <div class="pro"> 
+            <img src="7.png" alt="" height="337px" width="276px"> 
+        </div> 
+    /div> 
+</body> 
+</html>
